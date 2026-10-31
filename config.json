@@ -1,0 +1,93 @@
+{
+  "code": "KNSU",
+  "title": "SMASH KNSU",
+  "school": "한국체대",
+  "fullName": "한국체육대학교",
+  "campusName": "한국체육대학교",
+  "tagline": "한국체대를 부셔 (시험기간 스트레스 해소)",
+  "description": "한국체육대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 한국체육대학교 3D 화면과 SMASH KNSU 제목",
+  "url": "https://hong-iron.github.io/SMASH-KNSU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 415026013
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.5181077,
+        127.1303074
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 천마관 남쪽 벽에 붙은 이름 없는 윤곽인데, 사진에는 나무만 있고 건축물대장 기록도 없다."
+    },
+    {
+      "at": [
+        37.5201,
+        127.132259
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 헐린 옛 학생회관의 부속 기록이고, 그 자리는 지금 개선관(5번) 공사 구역 안에 들어가 겹친다."
+    }
+  ],
+  "look": {
+    "월계관": {
+      "style": "concrete",
+      "wall": "#c9cacc",
+      "glass": "#5f8a8c",
+      "frame": "#8f9396"
+    },
+    "승리관": {
+      "style": "stone",
+      "wall": "#c3bfba",
+      "glass": "#2f4a66",
+      "frame": "#a68f5c"
+    },
+    "한국체육대학교 본관": {
+      "style": "ribbon",
+      "wall": "#dcd8d3",
+      "glass": "#3a3e44",
+      "frame": "#989b9f"
+    },
+    "수영장": {
+      "style": "concrete",
+      "wall": "#d9dbde",
+      "glass": "#3f4a55",
+      "frame": "#9ea3a8"
+    },
+    "생활관": {
+      "style": "dorm",
+      "wall": "#cdbb8a",
+      "glass": "#3f4247",
+      "frame": "#8a5f52"
+    },
+    "오륜관": {
+      "style": "stone",
+      "wall": "#c4beb5",
+      "glass": "#2c4f78",
+      "frame": "#b39552"
+    },
+    "도약관": {
+      "style": "stone",
+      "wall": "#d8d9de",
+      "glass": "#2e3a3a",
+      "frame": "#ad6a5b"
+    },
+    "필승관": {
+      "style": "stone",
+      "wall": "#e2dbd4",
+      "glass": "#3f6f80",
+      "frame": "#c99e50"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
